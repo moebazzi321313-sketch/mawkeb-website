@@ -1,0 +1,9 @@
+# Python caches
+__pycache__/
+*.pyc
+# Local tools and OS files
+.DS_Store
+Thumbs.db
+# Large source footage never belongs in the repo; the site uses assets/media/latm/
+*.mp4.part
+Crane.mp4
