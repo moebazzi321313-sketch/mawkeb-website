@@ -1,2 +1,6 @@
 .tmp/
 versions/
+# Videos stay off GitHub (kept locally)
+*.mp4
+*.MP4
+Videos/
